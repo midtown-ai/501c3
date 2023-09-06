@@ -1,1 +1,4 @@
-# 501c3
+# 501c3 documents
+
+ * [Bylaw][./docs/bylaw.md]
+
